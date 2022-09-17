@@ -1,0 +1,29 @@
+.post {
+  max-width: 1000px;
+  margin: 0 auto;
+  border: 1px solid #dfdce5;
+  padding: 30px;
+  background-color: #eaebe9;
+}
+
+.changing {
+  text-align: right;
+  cursor: pointer;
+}
+
+.changing div {
+  padding: 5px 0;
+}
+
+.mrg {
+  margin-bottom: 15px;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}
+
+.wrapper {
+  min-height: 100vh;
+}

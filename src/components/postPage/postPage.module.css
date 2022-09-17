@@ -1,0 +1,22 @@
+.post {
+  max-width: 1000px;
+  margin: 0 auto;
+  border: 1px solid #dfdce5;
+  padding: 30px;
+  background-color: #eaebe9;
+  max-height: 90%;
+}
+.post button {
+  padding: 10px;
+  margin: 5px 0;
+}
+
+.comments {
+  padding-top: 20px;
+}
+
+.inputCom textarea {
+  width: 995px;
+  height: 50px;
+  font-size: 16px;
+}

@@ -1,0 +1,12 @@
+.author {
+  padding: 15px 15px;
+  border-bottom: 1px solid black;
+  margin-top: 10px;
+}
+.commentsText {
+  padding: 15px;
+}
+
+.comments {
+  background-color: white;
+}
